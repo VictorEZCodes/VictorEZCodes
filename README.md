@@ -8,7 +8,7 @@
 
 - 🌱 I'm progressively expanding my skills in technologies like **ReactJS, NextJS, Firebase, mongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VictorEZCodes](https://github.com/VictorEZCodes)
+- 👨‍💻 All of my projects are available at [https://github.com/VictorEZCodes](https://github.com/VictorEZCodes) [https://victoranyika.netlify.app/](https://victoranyika.netlify.app/)
 
 - ⚡ Fun fact **I'm on a continuous adventure, progressively expanding my skills**
 
